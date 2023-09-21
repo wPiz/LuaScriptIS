@@ -2,5 +2,5 @@
 
 -> Download
 -> Open
--> Edit umber value for shooting pew pew
+-> Edit number value for shooting pew pew
 -> Enjoy
